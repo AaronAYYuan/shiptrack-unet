@@ -14,7 +14,9 @@ Each sample is a 3-channel false-colour PNG (MODIS channels 1, 20, 32) paired wi
 
 ## Model
 
-Two-level U-Net with skip connections. See `model_architecture.png` for a diagram.
+Two-level U-Net with skip connections.
+
+![Model Architecture](model_architecture.png)
 
 Each conv block is two layers of Conv3x3 → BatchNorm → ReLU. Upsampling uses transposed convolutions. Masks are rasterised from polyline annotations with 10px width per the original paper.
 
