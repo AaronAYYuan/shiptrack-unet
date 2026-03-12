@@ -1,0 +1,113 @@
+Epoch 1/80 - train loss: 0.3150
+  -> Saved new best model (train loss 0.3150)
+Epoch 2/80 - train loss: 0.0876
+  -> Saved new best model (train loss 0.0876)
+Epoch 3/80 - train loss: 0.0474
+  -> Saved new best model (train loss 0.0474)
+Epoch 4/80 - train loss: 0.0369
+  -> Saved new best model (train loss 0.0369)
+Epoch 5/80 - train loss: 0.0331
+  -> Saved new best model (train loss 0.0331)
+Epoch 6/80 - train loss: 0.0311
+  -> Saved new best model (train loss 0.0311)
+Epoch 7/80 - train loss: 0.0296
+  -> Saved new best model (train loss 0.0296)
+Epoch 8/80 - train loss: 0.0287
+  -> Saved new best model (train loss 0.0287)
+Epoch 9/80 - train loss: 0.0275
+  -> Saved new best model (train loss 0.0275)
+Epoch 10/80 - train loss: 0.0267
+  -> Saved new best model (train loss 0.0267)
+Epoch 11/80 - train loss: 0.0254
+  -> Saved new best model (train loss 0.0254)
+Epoch 12/80 - train loss: 0.0244
+  -> Saved new best model (train loss 0.0244)
+Epoch 13/80 - train loss: 0.0226
+  -> Saved new best model (train loss 0.0226)
+Epoch 14/80 - train loss: 0.0218
+  -> Saved new best model (train loss 0.0218)
+Epoch 15/80 - train loss: 0.0205
+  -> Saved new best model (train loss 0.0205)
+Epoch 16/80 - train loss: 0.0197
+  -> Saved new best model (train loss 0.0197)
+Epoch 17/80 - train loss: 0.0191
+  -> Saved new best model (train loss 0.0191)
+Epoch 18/80 - train loss: 0.0181
+  -> Saved new best model (train loss 0.0181)
+Epoch 19/80 - train loss: 0.0178
+  -> Saved new best model (train loss 0.0178)
+Epoch 20/80 - train loss: 0.0176
+  -> Saved new best model (train loss 0.0176)
+Epoch 21/80 - train loss: 0.0172
+  -> Saved new best model (train loss 0.0172)
+Epoch 22/80 - train loss: 0.0166
+  -> Saved new best model (train loss 0.0166)
+Epoch 23/80 - train loss: 0.0164
+  -> Saved new best model (train loss 0.0164)
+Epoch 24/80 - train loss: 0.0160
+  -> Saved new best model (train loss 0.0160)
+Epoch 25/80 - train loss: 0.0156
+  -> Saved new best model (train loss 0.0156)
+Epoch 26/80 - train loss: 0.0153
+  -> Saved new best model (train loss 0.0153)
+Epoch 27/80 - train loss: 0.0152
+  -> Saved new best model (train loss 0.0152)
+Epoch 28/80 - train loss: 0.0147
+  -> Saved new best model (train loss 0.0147)
+Epoch 29/80 - train loss: 0.0148
+Epoch 29/80 - train loss: 0.0148
+Epoch 30/80 - train loss: 0.0144
+  -> Saved new best model (train loss 0.0144)
+Epoch 31/80 - train loss: 0.0141
+  -> Saved new best model (train loss 0.0144)
+Epoch 31/80 - train loss: 0.0141
+Epoch 31/80 - train loss: 0.0141
+  -> Saved new best model (train loss 0.0141)
+Epoch 32/80 - train loss: 0.0137
+  -> Saved new best model (train loss 0.0137)
+Epoch 33/80 - train loss: 0.0135
+  -> Saved new best model (train loss 0.0135)
+Epoch 34/80 - train loss: 0.0134
+  -> Saved new best model (train loss 0.0134)
+Epoch 35/80 - train loss: 0.0132
+  -> Saved new best model (train loss 0.0132)
+Epoch 36/80 - train loss: 0.0128
+  -> Saved new best model (train loss 0.0128)
+Epoch 37/80 - train loss: 0.0124
+  -> Saved new best model (train loss 0.0124)
+Epoch 38/80 - train loss: 0.0123
+  -> Saved new best model (train loss 0.0123)
+Epoch 39/80 - train loss: 0.0122
+  -> Saved new best model (train loss 0.0122)
+Epoch 40/80 - train loss: 0.0116
+  -> Saved new best model (train loss 0.0116)
+Epoch 41/80 - train loss: 0.0115
+  -> Saved new best model (train loss 0.0115)
+Epoch 42/80 - train loss: 0.0111
+  -> Saved new best model (train loss 0.0111)
+Epoch 43/80 - train loss: 0.0109
+  -> Saved new best model (train loss 0.0109)
+Epoch 44/80 - train loss: 0.0108
+  -> Saved new best model (train loss 0.0108)
+Epoch 45/80 - train loss: 0.0104
+  -> Saved new best model (train loss 0.0104)
+Epoch 46/80 - train loss: 0.0102
+  -> Saved new best model (train loss 0.0102)
+Epoch 47/80 - train loss: 0.0097
+  -> Saved new best model (train loss 0.0097)
+Epoch 48/80 - train loss: 0.0094
+  -> Saved new best model (train loss 0.0094)
+Epoch 49/80 - train loss: 0.0098
+Epoch 50/80 - train loss: 0.0088
+  -> Saved new best model (train loss 0.0088)
+Epoch 51/80 - train loss: 0.0085
+  -> Saved new best model (train loss 0.0085)
+Epoch 52/80 - train loss: 0.0082
+  -> Saved new best model (train loss 0.0082)
+Epoch 53/80 - train loss: 0.0079
+  -> Saved new best model (train loss 0.0079)
+Epoch 54/80 - train loss: 0.0083
+Epoch 55/80 - train loss: 0.0076
+  -> Saved new best model (train loss 0.0076)
+Epoch 56/80 - train loss: 0.0075
+  -> Saved new best model (train loss 0.0075)

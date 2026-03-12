@@ -1,0 +1,11 @@
+Training Settings
+-----------------
+Model:          SimpleUNet (encoder: 32→64→128, decoder: 64→32→1)
+Images used:    600 (from data/train)
+Epochs:         80
+Batch size:     4
+Image size:     512 x 512
+Loss function:  BCEWithLogitsLoss
+Optimizer:      Adam (lr=1e-3)
+Mask thickness: 10 px
+Device:         CUDA (GPU)
