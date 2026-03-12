@@ -25,7 +25,7 @@ The `pre_trained_results/` folder has outputs from a longer training run:
 | Setting | Value |
 |---|---|
 | Images | 600 |
-| Epochs | 85 |
+| Epochs | 80 |
 | Batch size | 4 |
 | Resolution | 512x512 |
 | Loss | BCEWithLogitsLoss |
