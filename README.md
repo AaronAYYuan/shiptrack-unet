@@ -4,6 +4,14 @@ Pixel-level segmentation of ship tracks in MODIS satellite imagery using a small
 
 Ship tracks are bright linear cloud features caused by ship aerosol emissions. This project trains a U-Net to localise them in false-colour MODIS composites from the CloudTracks dataset.
 
+## Results
+
+Predictions from the pre-trained model on held-out test images. Each panel shows the input MODIS composite, the ground-truth mask, and the model prediction (training settings in [Pre-trained Results](#pre-trained-results) below):
+
+![Result 1](pre_trained_results/test1/result_1.png)
+![Result 3](pre_trained_results/test1/result_3.png)
+![Result 4](pre_trained_results/test1/result_4.png)
+
 ## Dataset
 
 The sample images included here are just enough to verify the pipeline runs. The full dataset (1,780 images, 12,000+ annotations) can be downloaded from:
